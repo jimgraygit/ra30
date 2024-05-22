@@ -40,6 +40,7 @@ Start + R: Brightness Up
 
 ///Credits: 
 e1000 - device donation, guru, moral support, hardware expertise
+Steward-Fu: the legend himself. this thing wouldn't be playing a single 3D game at full speed.
 Onion team old and new - Retroarch cores, ass kicking, brilliance
 Libretro - obviously
 Shaun Inman - cutter guru, 2.5 year old DMs that have answers to my toughest questions
