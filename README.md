@@ -1,4 +1,4 @@
-///RA30 - 220524a
+///RA30 - 020624a
 
 ///What is RA30?
 RA30 is an SD card overhaul for the Miyoo A30 with a patched MainUI launcher and a preconfigured Retroarch setup. The short term goal is to create a more consistent and optimized experience across the device. As with the original Onion v1.0, this is meant to be a stopgap until bigger and better solutions come along. 
@@ -10,8 +10,7 @@ RA30 is an SD card overhaul for the Miyoo A30 with a patched MainUI launcher and
 - Fully pre-configured Retroarch build with no bloat, cleaner menus, intuitive hotkeys and quick access to the features that make sense on an underpowered budget device like the A30.
 
 ///Known Issues, please report in the Retro Handhelds discord if you discover solutions:
-- Occasionally the entire RetroArch UI bugs out, I think that just kinda is what it is until we have a recompiled Retroarch
-- Crashes and freezes are not common but every CPU handles overclocking differently.
+- MainUI volume is reset on launch
 
 ///How to install:
 Drag and drop contents to the root of a FAT32 formatted SD card.
@@ -40,17 +39,10 @@ Start + R: Brightness Up
 
 ///Credits: 
 e1000 - device donation, guru, moral support, hardware expertise
-
-Steward-Fu: the legend himself. this thing wouldn't be playing a single 3D game at full speed.
-
 Onion team old and new - Retroarch cores, ass kicking, brilliance
-
 Libretro - obviously
-
 Shaun Inman - cutter guru, 2.5 year old DMs that have answers to my toughest questions
-
 Eggs - I’ve copied his homework somewhere, I have no doubt
-
 BTN team for their swap script and i'm sure something else somewhere
-
 mtaras for the original “Concise” theme that the stock theme here is modified from
+jdmeco, rebusmind, dandalf the grey, krumpetpirate, hyperfixd, tom and all the other testers i may have forgotten
