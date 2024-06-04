@@ -40,6 +40,7 @@ RA30 is an SD card overhaul for the Miyoo A30 with a patched MainUI launcher and
 ///Credits: 
 - e1000 - device donation, guru, moral support, hardware expertise, testing, overall renaissance man
 - Onion team old and new - Retroarch cores, ass kicking, brilliance
+- Batrex D for figuring out that save state issue
 - Libretro - obviously
 - Shaun Inman - cutter guru, 2.5 year old DMs that have answers to my toughest questions
 - Eggs - I’ve copied his homework somewhere, I have no doubt
